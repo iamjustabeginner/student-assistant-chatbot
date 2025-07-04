@@ -1,2 +1,2 @@
-# Student-Assistant-Chatbot
+# student-assistant-chatbot
 GR project 2025
