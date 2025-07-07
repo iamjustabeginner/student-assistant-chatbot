@@ -1,0 +1,57 @@
+<div class="main-contents type1 type4"><div class="column-group is-one"><div class=column-block><div class=mod-wysiwyg><div class=mod-entry><div class="image-set is-center" style="max-width: 700px;"><figure><img alt="Scholarships " data-popupalt-original-title=null height=200 src="/image.jsp?id=246235&version=English" title="Scholarship System" width=700></figure></div></div></div><h2 class="mod-title type2">Currently Available Scholarships <div class=mod-wysiwyg><p> Ritsumeikan University provides a range of financial support for international students in addition to the financial aid available from the Japanese Government and various foundations and organizations. One such form of financial aid offered by the University, known as Tuition Reduction, covers a portion of tuition equal to 20, 50, or 100% of fees for a period of one year for eligible undergraduate students (20% or 100% for graduate students: 100% Reduction for Master's and Doctoral students are two and three years in length, respectively. 20% Reduction for graduate students is one year in length). Selection for these awards is done at the time of admissions for undergraduate students beginning studies (for graduate students, selection for only the 100% Reduction is done at the time of admissions). For currently enrolled undergraduate students and graduate students not selected for 100% Reduction at their time of enrollment, it must be applied for after enrollment, and then again once each following year via the procedures outlined in detail below. <br> *The current Ritsumeikan University Tuition Reduction Scholarship for International Students will end in 2025. Tuition reduction from 2026 onwards has not yet been determined.<br> *The admission method through which international applicants are screened for Graduate Students Category I (100% reduction) varies depending on the graduate school. Please check with the administrative office of your preferred graduate school to learn which admission method is applicable.</p><p>・For details: <a class=”pdf” href=/infostudents-e/doc/RitsumeikanUniversityTuitionReductionScholarshipRegulations.pdf target=”_blank”>Ritsumeikan University Tuition Reduction Scholarship for International Students Regulations</a></p><p>Note: The scholarship information on this page is applicable only to students who do not have Japanese nationality.</p><p></p></div></h2><!--<h3 class="mod-title type3">Emergency Student Support Offered by Ritsumeikan University or Japanese Government, etc</h3>
+              
+                <div class="mod-wysiwyg"><p><strong>Call for Applicants for the Fall Semester 2020 Ritsumeikan University International Student Support Fund</strong><br>
+                &nbsp;&nbsp;<a href="https://en.ritsumei.ac.jp/current-students/pdf/E_ApplicationGuideline.pdf" target="”_blank”">Click here</a> for the application guidelines.</p>
+                <p style="color:red">*Students receiving the following scholarships are ineligible to apply for this financial support: MEXT, JDS, PEACE, CSC, Indonesia Linkage, PHRDIV Regular Program, IMF, ADB-JSP, ABE, SDGs, Innovative Asia.</p>
+              <p>The “Fall Semester 2020 Ritsumeikan University International Student Support Fund” is raised from donations made by Ritsumeikan Academy faculty, staff, and other members of our University community to support international students in need of financial support due to a decrease in allowance sent by their families based on a sudden changes in family finances, or lost income from part-time jobs which they relied on to cover living cost, but have been unable to work. Those who wish to receive this support should refer to the application guidelines linked above and apply through the online application form.<br><br>
+Support Amount: &nbsp;30,000 yen<br><br>
+Application Period: &nbsp;12:00 on Wed, December 9, 2020 - 17:00 on Tue, December 15, 2020 (Japan Time)<br><br>
+How to Apply: &nbsp;Apply online using the application form (See the Application Guidelines)</p></div>--><h3 class="mod-title type3">Scholarships Which May be Applied For Through Ritsumeikan University</h3><div class=mod-wysiwyg><p>Please see the <a href=https://global.support.ritsumei.ac.jp/hc/en-us/categories/360005898053-Frequently-Asked-Questions-from-International-Students>FAQ</a>. </p><h3 class="mod-title type3">Scholarships Offered by Private and Public Foundations Which Must be Applied for Separately (University Recommendation Required)</h3><div class=mod-wysiwyg><p> These are foundation scholarships which students cannot be screened for via the "Ritsumeikan University Scholarship Application for Privately-Financed International Students" described on the FAQ site above, but which require a recommendation from the university in order to apply just the same as the scholarships for which students are screened via the "Ritsumeikan University Scholarship Application for Privately-Financed International Students". For these scholarships, interested students must apply by submitting an individual application to the International Center for their scholarship of interest. Afterwards, a review of applicants is held by the university and successful students are granted a university recommendation. Successful students then submit their individual scholarship application and university recommendation to the scholarship foundation in order to apply for scholarship. Please note that most scholarships which fall under this category require at least some Japanese language skill, and thus details are sometimes posted in Japanese only.</p><p>Please see the <a href=https://global.support.ritsumei.ac.jp/hc/en-us/categories/360005898053-Frequently-Asked-Questions-from-International-Students>FAQ</a></p><hr></div><h3 class="mod-title type3">Scholarships Offered by Private Foundations that Students May Apply for Independently</h3><div class=mod-wysiwyg><p>These are private scholarships for which a recommendation from the university is not required in order to apply. If you apply for one of these or any other a private scholarships, however, please notify the International Center on your campus once you have submitted your application.<br><!--<span style="font-size: 11pt;"><font color="#3399ff"> Currently there are no scholarships with open applications in English.</font></span>--></p><p>Please see the <a href=https://global.support.ritsumei.ac.jp/hc/en-us/categories/360005898053-Frequently-Asked-Questions-from-International-Students>FAQ</a>. </p><p></p><hr></div><h3 class="mod-title type3">Scholarship System Outline/Application Qualifications/Application Process </h3><div class=mod-wysiwyg><p>There are two main scholarship types for currently enrolled students - Tuition Reduction Scholarships, which cover a portion or all of tuition fees, and Scholarships that cover living expenses and books. For most of these scholarships, your residence status must be “Student” in order to apply. Those who would like to apply should attend the one of the guidance sessions held at the beginning of each semester for the Ritsumeikan University Scholarship Application for Privately-Financed International Students.</p></div><div class=mod-wysiwyg><div class=set-table><table><tbody><tr><th>Scholarships Offered by Ritsumeikan University</th><td rowspan=3><a href=https://en.ritsumei.ac.jp/current-students/pdf/IntlStudentHandbookScholarshipsSection.pdf>International Student Handbook: Scholarship Section</a></td></tr><tr><th>Scholarships Offered by Private and Public Foundations</th></tr><tr><th>Scholarships Offered by Private Foundations That Students Must Apply for Independently</th></tr></tbody></table></div></div><div class=mod-wysiwyg><p>*The information in the handbook shows the scholarships for international students handled by the International Center. However, Ritsumeikan University handles various scholarships outside of the International Center as well. For more details, please consult your graduate/undergraduate administration office or the office of graduate studies.</p><hr><p></p><p>For students in Japanese language track degree courses, please see our <a href=https://www.ritsumei.ac.jp/international/intl_students/scholarship.html/ target=_blank> Japanese language scholarship homepage</a></p><!-- <h3 class="mod-title type3">Scholarships available AFTER Enrollment at Ritsumeikan</h3><div class="mod-wysiwyg">
+					<div class="set-table">
+						<table>
+							<thead>
+								<tr>
+									<th rowspan="2">Scholarship <br>Name</th>
+									<th colspan="2">Scholarship Conditions</th>
+									<th rowspan="2">How to Apply</th>
+								</tr>
+								<tr>
+									<th>Details</th>
+									<th>Period</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<th>JASSO <br>Scholarship</th>
+									<td>
+									- 48,000 yen per month will be paid<br>
+									- Applicants must be self-financed international students<br>
+									- Only students with a "College Student" visa are eligible to apply<br>
+									- Only students living outside Japan before enrollment at RU are eligible to apply<br>
+									</td>
+									<td>
+									12 months for April enrollers and six months for September enrollers
+									</td>
+									<td>
+									Students must make an application in early April (for April enrollers) and in early October (for September enrollers).
+									</td>
+								</tr>
+								<tr>
+									<th>Other <br>Scholarships</th>
+									<td>
+									- Applicants must be self-financed international students<br>
+									- Only students who do not have Japanese nationality are eligible to apply<br>
+									- Most of the scholarships require a "College Student" visa<br>
+									</td>
+									<td>
+									Depending on each scholarship.
+									</td>
+									<td>
+									<br></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+<div class="mod-wysiwyg">
+<p>For more information on scholarships&nbsp;for undergraduate and graduate students,&nbsp;see the <a href="/infostudents-e/scholarships">Scholarships</a> page.&nbsp;&nbsp;&nbsp;</p>	--></div><div class="main-contents type1 type4"></div></div></div></div></div>
