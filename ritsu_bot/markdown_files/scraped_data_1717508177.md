@@ -1,0 +1,4 @@
+Question: Can I participate in job hunting even if I study abroad in my third year?
+
+Answer:
+Currently, hiring schedules vary depending on the industry in which you are interested. First of all, please utilize RU’s Career Center to collect information on the industry you are interested in and make a job hunting plan. In recent years, there have been Japanese companies that carry out recruiting activities overseas as well as companies that use online tools such as Skype for interviews. When planning your study abroad, try to collect information on job hunting while referring to other students’ study abroad reports. For details, please check the following websites.
